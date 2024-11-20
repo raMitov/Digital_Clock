@@ -1,0 +1,10 @@
+C:\Users\chizm\source\repos\Digital_Clock\obj\Debug\Digital_Clock.csproj.AssemblyReference.cache
+C:\Users\chizm\source\repos\Digital_Clock\obj\Debug\Digital_Clock.Form1.resources
+C:\Users\chizm\source\repos\Digital_Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+C:\Users\chizm\source\repos\Digital_Clock\obj\Debug\Digital_Clock.csproj.GenerateResource.cache
+C:\Users\chizm\source\repos\Digital_Clock\obj\Debug\Digital_Clock.csproj.CoreCompileInputs.cache
+C:\Users\chizm\source\repos\Digital_Clock\bin\Debug\Digital_Clock.exe.config
+C:\Users\chizm\source\repos\Digital_Clock\bin\Debug\Digital_Clock.exe
+C:\Users\chizm\source\repos\Digital_Clock\bin\Debug\Digital_Clock.pdb
+C:\Users\chizm\source\repos\Digital_Clock\obj\Debug\Digital_Clock.exe
+C:\Users\chizm\source\repos\Digital_Clock\obj\Debug\Digital_Clock.pdb
